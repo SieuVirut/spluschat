@@ -1,0 +1,18 @@
+.ant-layout {
+	width: 100vw;
+	height: 100vh;
+	.ant-layout-header {
+		background-color: green;
+		background: url('http://ussh.vnu.edu.vn/images/logo.png');
+		background-repeat: no-repeat;
+		background-size: contain;
+    background-position: center; 
+		.school-name {
+			display: flex;
+			color: white;
+			font-size: 30px;
+			justify-content: center;
+			white-space: nowrap;
+		}
+	}
+}
